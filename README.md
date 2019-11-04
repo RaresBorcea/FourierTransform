@@ -10,4 +10,4 @@ To run the programs:
 ./FFT inputValues.txt outputValues.txt numThreads
 
 Input file contains on the first line the number of values (n) and, on the following n
-lines, the Xn data set, one value per line.
+lines, the Xn data set, one value per line. An example is attached.
